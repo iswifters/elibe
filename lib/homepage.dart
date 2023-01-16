@@ -2,8 +2,9 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
-import 'package:wmt_ebook_reader/files_repository.dart';
-import 'package:wmt_ebook_reader/reader_page.dart';
+import 'package:elibe/files_repository.dart';
+import 'package:elibe/reader_page.dart';
+
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
